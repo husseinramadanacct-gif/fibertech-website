@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fibertech-website.vercel.app/sitemap.xml
+Sitemap: https://al-alameyafiberglass.vercel.app/sitemap.xml
